@@ -121,6 +121,15 @@
             untracked files
             current branch
 
+# 11. git add
+        Adds changes to the staging area
+
+        Usage:
+            git add file.py
+
+        Most common:
+            git add .
+                -- stages all changes
 
 
 
