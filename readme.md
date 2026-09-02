@@ -166,3 +166,12 @@
             git pull origin main
 
 
+# 15. git push
+        Uploads your commits to the remote repository
+
+        Usage:
+            git push
+
+        First push of a branch:
+            git push -u origin branch-name
+
