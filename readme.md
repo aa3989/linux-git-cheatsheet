@@ -131,5 +131,16 @@
             git add .
                 -- stages all changes
 
+# 12. git commit
+        Saves staged changes to Git history
+
+        Usage:
+            git commit -m "Add login page"
+
+        Typical workflow:
+            git add .
+            git commit -m "Update project"
+
+
 
 
