@@ -142,5 +142,18 @@
             git commit -m "Update project"
 
 
+# 13. git log
+        Shows commit history
+
+        Usage:
+            git log
+
+        Useful tricks:
+            git log --oneline
+                -- compact history
+
+            git log --oneline --graph --all
+                -- visual branch/commit history
+
 
 
