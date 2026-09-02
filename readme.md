@@ -84,5 +84,14 @@
         Rename:
             mv old.txt new.txt
 
+# 8. cat
+        Displays the contents of a file
+
+        Usage:
+            cat file.txt
+
+        Useful tricks:
+            cat -n file.txt
+                -- displays line numbers
 
 
