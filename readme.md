@@ -75,5 +75,14 @@
             cp -r folder backup/
                 -- copies entire directory
 
+# 7. mv
+        Moves or renames files/directories
+
+        Usage:
+            mv file.txt folder/
+
+        Rename:
+            mv old.txt new.txt
+
 
 
