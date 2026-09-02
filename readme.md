@@ -107,3 +107,20 @@
             grep -r "hello" .
                 -- searches all files recursively
 
+# GIT Commands #
+
+# 10. git status
+        Shows the current state of your Git repository
+
+        Usage:
+            git status
+
+        Shows:
+            modified files
+            staged files
+            untracked files
+            current branch
+
+
+
+
