@@ -62,5 +62,18 @@
                 -- force removes everything inside
                 -- USE WITH CAUTION
 
+# 6. cp
+        Copies files or directories
+
+        Usage:
+            cp file.txt copy.txt
+
+        Useful tricks:
+            cp file.txt folder/
+                -- copies file into folder
+
+            cp -r folder backup/
+                -- copies entire directory
+
 
 
