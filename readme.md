@@ -94,4 +94,16 @@
             cat -n file.txt
                 -- displays line numbers
 
+# 9. grep
+        Searches for text
+
+        Usage:
+            grep "hello" file.txt
+
+        Useful tricks:
+            grep -i "hello" file.txt
+                -- ignores uppercase/lowercase
+
+            grep -r "hello" .
+                -- searches all files recursively
 
