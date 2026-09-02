@@ -14,5 +14,15 @@
             cd ~        -- go to home directory
             cd -        -- go to previous directory
 
+# 2. ls
+        Lists files and directories
+
+        Usage:
+            ls
+
+        Useful tricks:
+            ls -l       -- detailed view
+            ls -la      -- includes hidden files
+
 
 
