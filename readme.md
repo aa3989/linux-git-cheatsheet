@@ -24,5 +24,17 @@
             ls -l       -- detailed view
             ls -la      -- includes hidden files
 
+# 3. mkdir
+        Creates a directory
+
+        Usage:
+            mkdir folder
+
+        Useful tricks:
+            mkdir folder1 folder2
+                -- creates multiple directories
+
+            mkdir -p project/src/components
+                -- creates nested directories
 
 
