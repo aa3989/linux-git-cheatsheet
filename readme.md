@@ -47,5 +47,20 @@
             touch file1.txt file2.txt
                 -- creates multiple files
 
+# 5. rm
+        Removes files or directories
+
+        Usage:
+            rm file.txt
+            rm -r folder
+
+        Useful tricks:
+            rm -r folder
+                -- removes folder and its contents
+
+            rm -rf folder
+                -- force removes everything inside
+                -- USE WITH CAUTION
+
 
 
