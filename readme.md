@@ -37,4 +37,15 @@
             mkdir -p project/src/components
                 -- creates nested directories
 
+# 4. touch
+        Creates an empty file
+
+        Usage:
+            touch file.txt
+
+        Useful tricks:
+            touch file1.txt file2.txt
+                -- creates multiple files
+
+
 
