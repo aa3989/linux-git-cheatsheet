@@ -156,4 +156,13 @@
                 -- visual branch/commit history
 
 
+# 14. git pull
+        Gets the latest changes from the remote repository
+
+        Usage:
+            git pull
+
+        Or:
+            git pull origin main
+
 
